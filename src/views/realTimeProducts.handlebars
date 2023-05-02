@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito</title>
+</head>
+<body>
+    <h1>Producos en tiempo real</h1>
+
+    <form id="product-form">
+    <input type="text" id="name" name="name" placeholder="Product name" />
+    <input type="number" id="price" name="price" placeholder="Product price" />
+    <button type="submit" id="add-product">Agregar producto</button>
+    <button type="submit" id="remove-product">Eliminar producto</button>
+</form>
+    <ul id="products">
+        {{#each products}}
+            <li>{{this.title}} - {{this.description}} - {{this.price}} - {{this.category}}</li>
+        {{/each}}
+    </ul>
+
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="../public/js/realTimeProducts.js"></script>
+</body>
+</html>

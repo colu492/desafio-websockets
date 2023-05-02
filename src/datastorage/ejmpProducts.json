@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "title": "Gollo 0034",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 999.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/a60815d24f0d96b51ebbf12640470bc6.png",
+        "code": "abc123",
+        "status": true,
+        "category": "Raro",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "name": "Gollo 0039",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 1999.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/0bdda04e3f54e5a3254c44d3bba8dd3b.png",
+        "code": "def456",
+        "status": true,
+        "category": "Epico",
+        "stock": 78
+    },
+            {
+        "id": 3,
+        "name": "Gollo 0042",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 345.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/b7eefaaecec94b8a0296ee8afafeded4.png",
+        "code": "ghi789",
+        "status": true,
+        "category": "Legendario",
+        "stock": 15
+        
+    },
+    {
+        "id": 4,
+        "name": "Gollo 0051",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 889.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/869cbf471890e79651ee825503060971.png",
+        "code": "mnn121",
+        "status": true,
+        "category": "Comun",
+        "stock": 53
+    },        {
+        "id": 5,
+        "name": "Gollo 0067",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 669.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/3d3243cf2fd81b65d12afd9e9c5be6ce.png",
+        "code": "jkl101",
+        "status": true,
+        "category": "Raro",
+        "stock": 33
+    },        {
+        "id": 6,
+        "name": "Gollo 0077",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 544.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/0a378f2c72eac6966b52b2c6776fa46e.png",
+        "code": "opq131",
+        "status": true,
+        "category": "Epico",
+        "stock": 63
+    },        {
+        "id": 7,
+        "name": "Gollo 0086",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 99.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/b37af6b666c22486955546ff9595f45f.png",
+        "code": "rst141",
+        "status": true,
+        "category": "Raro",
+        "stock": 89
+    },        {
+        "id": 8,
+        "name": "Gollo 0096",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 19.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/c5ea6b8775e3bab224542528373ad593.png",
+        "code": "uvw151",
+        "status": true,
+        "category": "Comun",
+        "stock": 147
+    },        {
+        "id": 9,
+        "title": "Gollo 0933",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 778.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/fd6ecba84867cb7d2fc8dbe1eb6b5e84.png",
+        "code": "xyz161",
+        "status": true,
+        "category": "Epico",
+        "stock": 33
+
+    },        {
+        "id": 10,
+        "title": "Gollo 4170",
+        "description": "This Gollo NFT grants you an exclusive pass to the grower academy on our website.",
+        "price": 300.00,
+        "thumbnail": "https://dl.openseauserdata.com/cache/originImage/files/778d6bdcdb4357e73fb571c8c0a43b3b.png",
+        "code": "bcd171",
+        "status": true,
+        "category": "Legendario",
+        "stock": 15
+    }
+    
+    ]
+
+    
